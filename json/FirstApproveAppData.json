@@ -409,6 +409,13 @@
     "black_overlay_percentage_on_fake": 50,
     "black_overlay_fake_video_volume": 1,
     "black_overlay_opacity": 1,
+    "ugc_policy": {
+      "is_show": true,
+      "title": "UGC Policy",
+      "description": "Blur effect will be removed when the other\nside user face camera.",
+      "redirect_text":"Read More",
+      "policy_url": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+    },
     "call_timeout_offer_dialog": {
       "is_show": false,
       "is_show_every_time": false,
