@@ -8,6 +8,7 @@
     "min_dialing_time": 1,
     "call_timeout": 20,
     "is_random_self_id": false,
+    "spam_user_ids_limit":10,
     "fake_video_volume": 0.1,
     "fake_call_list": [
       "tUe4iwXHpKI",
