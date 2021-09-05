@@ -12,6 +12,7 @@
     "call_timeout": 10,
     "is_random_self_id": false,
     "fake_video_volume": 0.1,
+    "spam_user_ids_limit":10,
     "fake_call_list": [
       "-5xzJkr28Uc",
       "-f6fTgvyn1c",
