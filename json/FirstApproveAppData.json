@@ -416,7 +416,7 @@
       "description": "Blur effect will be removed when the other\nside user face camera.",
        "self_description": "You have to face camera as per UGC policy.",
       "redirect_text":"Read More",
-      "policy_url": "https://sites.google.com/view/livetalk-llc/privacy-policy"
+      "policy_url": "https://livetalk-llc.github.io/ugc-policy"
     },
     "call_timeout_offer_dialog": {
       "is_show": false,
