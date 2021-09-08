@@ -410,11 +410,14 @@
     "black_overlay_percentage_on_fake": 50,
     "black_overlay_fake_video_volume": 1,
     "black_overlay_opacity": 1,
+    "black_overlay_blur_size": 50,
     "ugc_policy": {
       "is_show": true,
       "title": "UGC Policy",
+      "overlay_opacity": 0.5,
+      "blur_size": 20,
       "description": "Blur effect will be removed when the other\nside user face camera.",
-       "self_description": "You have to face camera as per UGC policy.",
+      "self_description": "You have to face camera as per UGC policy.",
       "redirect_text":"Read More",
       "policy_url": "https://livetalk-llc.github.io/ugc-policy"
     },
