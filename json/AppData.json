@@ -2,7 +2,7 @@
   "App_Data": {
     "is_override": false,
     "app_name": "livetalk",
-    "server_address": "52.66.251.119",
+    "server_address": "3.83.88.221",
     "port": 8086,
     "call_type": "both",
     "call_type1": "fake",
@@ -322,8 +322,8 @@
       "PLKTYIE8svIg3ChZTbuFcs1AISxcpf6Nku",
       "PLrb98WeJ5JMNBmupxrdQXSnjp9NNw1b3k"
     ],
-    "socket_server_address": "http://35.154.22.231:8080",
-    "youtube_to_mp4_api": "http://35.154.22.231:8081/imo_youtube_to_mp4?youtube_id=<<youtube_id>>",
+    "socket_server_address": "http://3.83.88.221:8080",
+    "youtube_to_mp4_api": "http://3.83.88.221:8081/imo_youtube_to_mp4?youtube_id=<<youtube_id>>",
     "percentage_of_live_call": 100,
     "possible_percentage_server_side": 100,
     "black_overlay_percentage_on_fake": 50,
