@@ -4,7 +4,7 @@
     "app_name": "livetalk",
     "server_address": "3.83.88.221",
     "port": 8086,
-    "call_type": "both",
+    "call_type": "live",
     "call_type1": "fake",
     "call_type2": "both",
     "call_type3": "live",
